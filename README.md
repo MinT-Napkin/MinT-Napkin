@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning more about React Native.
 - 💞️ I’m looking to collaborate on front end development.
 - 📫 How to reach me (Discord MinT#3511) / (Email mtran8011@yahoo.com)
+- I'm also interested in digital illustration, just for fun. Check out my twitter if you want too see my digital art.
 
 <!---
 MinT-Napkin/MinT-Napkin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
